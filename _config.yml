@@ -1,7 +1,7 @@
 theme: jekyll-theme-slate
 
-title: [Graph](https://jbrown725.github.io/)
+title: Graphitti
 description: A project to facilitate construction of high-performance neural simulations
-baseurl: /docs
+baseurl: /
 
 show_downloads: false
